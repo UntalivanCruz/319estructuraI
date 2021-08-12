@@ -1,5 +1,4 @@
-//Pilas *****
-//Colas
+//Pilas
 
 #include<iostream>
 using namespace std;
